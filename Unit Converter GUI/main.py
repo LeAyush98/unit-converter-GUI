@@ -1,7 +1,7 @@
 from tkinter import *
 
 window = Tk()
-window.title("First GUI")
+window.title("Converter")
 window.minsize(500,300)
 
 reference_label = Label(text="                               ")
